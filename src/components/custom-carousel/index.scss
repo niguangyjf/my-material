@@ -1,0 +1,13 @@
+.custom-carousel {
+    height: 100%;
+    .slick-dots-bottom {
+        // bottom: -50px;
+    }
+    .slick-dots li.slick-active button {
+        background-color: #989898;
+    }
+    .slick-dots li button {
+        background-color: #3f3f3f;
+        height: 5px;
+    }
+}

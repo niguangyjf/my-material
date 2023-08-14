@@ -1,0 +1,27 @@
+@import '~@alifd/next/variables.scss';
+
+$biz-css-prefix: '.bizpack';
+
+.ant-carousel {
+    height: 100%;
+}
+.pos_start {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.pos_btw {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ol,
+ul,
+dl {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+    background-color: transparent;
+}

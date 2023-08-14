@@ -1,0 +1,15 @@
+.custom_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    &_head {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px;
+    }
+    &_body {
+        padding: 16px;
+        flex: 1;
+    }
+}
