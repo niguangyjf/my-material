@@ -1,4 +1,4 @@
-# react-comps
+# lowcode-comps
 
 一个面向 PC 的业务组件库
 

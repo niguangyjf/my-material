@@ -8,8 +8,8 @@ const ColorfulInputMeta: ComponentMetadata = {
   "screenshot": "",
   "devMode": "proCode",
   "npm": {
-    "package": "react-comps",
-    "version": "0.1.0",
+    "package": "lowcode-comps",
+    "version": "0.1.1",
     "exportName": "ColorfulInput",
     "main": "src\\index.tsx",
     "destructuring": true,

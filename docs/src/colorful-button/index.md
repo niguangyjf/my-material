@@ -6,7 +6,7 @@
 
 ```tsx
 import React from 'react';
-import { ColorfulButton } from 'react-comps';
+import { ColorfulButton } from 'lowcode-comps';
 
 
 export default () => {

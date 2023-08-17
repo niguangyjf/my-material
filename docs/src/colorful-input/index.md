@@ -6,7 +6,7 @@
 
 ```tsx
 import React from 'react';
-import { ColorfulInput } from 'react-comps';
+import { ColorfulInput } from 'lowcode-comps';
 
 
 export default () => {

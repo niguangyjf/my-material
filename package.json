@@ -1,6 +1,6 @@
 {
   "name": "lowcode-comps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lowcode-comps",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -82,7 +82,7 @@
   },
   "componentConfig": {
     "isComponentLibrary": true,
-    "materialSchema": "https://unpkg.com/lowcode-comps@0.1.0/build/lowcode/assets-prod.json"
+    "materialSchema": "https://unpkg.com/lowcode-comps@0.1.1/build/lowcode/assets-prod.json"
   },
-  "homepage": "https://unpkg.com/lowcode-comps@0.1.0/build/index.html"
+  "homepage": "https://unpkg.com/lowcode-comps@0.1.1/build/index.html"
 }

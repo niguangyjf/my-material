@@ -9,8 +9,8 @@ const GridMeta: ComponentMetadata = {
   "devMode": "proCode",
   "group": "自定义组件",
   "npm": {
-    "package": "react-comps",
-    "version": "0.1.0",
+    "package": "lowcode-comps",
+    "version": "0.1.1",
     "exportName": "Grid",
     "main": "src\\index.tsx",
     "destructuring": true,
